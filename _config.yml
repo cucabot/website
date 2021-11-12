@@ -36,6 +36,12 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+- title: Accesories
+  url: /accessories/
+- title: Hardware
+  url: /hardware/
+- title: Software
+  url: /software/
 - title: About
   url: /about/
 - title: Blog
